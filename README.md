@@ -6,7 +6,7 @@ We will deploy the 'Wordpress' PHP application with Nginx as the web server, and
 
 - Nginx: We use the official docker image, latest version 'nginx: latest'.
 
-- Wordpress: Wordpress provides some docker images on docker-hub, and we will use WordPress 4.7 with PHP-FPM 7.0 on it.
+- Wordpress: Wordpress provides some docker images on docker-hub, and we will use WordPress 5.8.2 with PHP-FPM 7.4 on it.
 
 - MySQL: We will use MariaDB official container, latest version.
 
