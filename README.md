@@ -17,7 +17,11 @@ We will not run docker as root, we will use normal Linux user. So just create a 
 Make directoris
 
 touch docker-compose.yml
+
 mkdir -p nginx/
+
 mkdir -p db-data/
+
 mkdir -p logs/nginx/
+
 mkdir -p wordpress/
