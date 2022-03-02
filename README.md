@@ -37,3 +37,4 @@ mkdir -p wordpress/
 Regards
 
 Aamir Hussain
+test git
