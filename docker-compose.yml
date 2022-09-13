@@ -39,3 +39,4 @@ services:
     links:
         - mysql
     restart: always
+    #
